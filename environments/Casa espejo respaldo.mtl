@@ -1,0 +1,24 @@
+# Blender 4.2.1 LTS MTL File: 'Casa espejo respaldo.blend'
+# www.blender.org
+
+newmtl Material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.197395 0.197395 0.197395
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks C:/SpecularMap (2).png
+map_Bump -bm 1.000000 C:/NormalMap (1).png
+
+newmtl Material.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800016 0.636719 0.400067
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 0.200000 C:/NormalMap (1).png
