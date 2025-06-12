@@ -1,0 +1,13 @@
+# Blender 4.2.1 LTS MTL File: 'UVs fachada.blend'
+# www.blender.org
+
+newmtl Material.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800016 0.636719 0.400067
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks C:/Users/lenovo/comebackF/environments/fbx CASA/.
+map_Bump -bm 0.200000 D:/1 MATERIAS/OCTAVO SEMESTRE/TALLER DE FORTALECIMIENTO AL EGRESADO/PROtESIS/TEXTURE PARED/NormalMap (1).png
